@@ -7,11 +7,11 @@
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=raquelgoncalvesfreitas&show_icons=true&theme=dark" 
-    width="400"
+    width="300"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelgoncalvesfreitas&layout=donut&theme=dark" 
-    width="270"
+    width="205"
   />
 </div>
 
