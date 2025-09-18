@@ -1,19 +1,7 @@
 ## Hi there 👋 Sou a Raquel Gonçalves de Freitas 
 
-- 🔭 I’m currently working on testes automatizados
+- 🔭 I’m currently working on testes automatizados: Cypress, Playwright, TestCafe, RobotFramework
 - 🌱 I’m currently learning Appium para automatizar testes mobile
-
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=raquelgoncalvesfreitas&show_icons=true&theme=dark" 
-    width="300"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelgoncalvesfreitas&layout=donut&theme=dark" 
-    width="205"
-  />
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Raquel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
